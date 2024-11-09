@@ -1,2 +1,3 @@
-# proj1
-proj 1 website flowers
+# Flower shop
+*This project build with HTML, CSS, JS*
+
